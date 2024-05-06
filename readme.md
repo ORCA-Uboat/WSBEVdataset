@@ -1,5 +1,5 @@
 # WSBEV datasets
-This open access dataset and official code is publicly available for surrounding-view water sufrace bird's eye view segmentation task, along with our paper work "Surround-view Water Surface BEV Segmentation for Autonomous Surface Vehicles: Dataset, Baseline and Hybrid-BEV Network". 
+This open access dataset is publicly available for surrounding-view water sufrace bird's eye view segmentation task, along with our paper work "Surround-view Water Surface BEV Segmentation for Autonomous Surface Vehicles: Dataset, Baseline and Hybrid-BEV Network". 
 
 <p align="center">
 <img src="./fig/vedio.gif" width="600"/>
@@ -101,7 +101,17 @@ To address the limitations of existing visual BEV perception methods against the
 </figure> 
 </p>
 
-
+# Cite
+Our paper has been accepted by IEEE Transactions on Intelligent Vehicles Journal. To know more details about FloW dataset, our paper can be found [here](https://ieeexplore.ieee.org/abstract/document/10517418). If you find our dataset useful for your research, you can cite:
+```
+@article{xu2024surround,
+  title={Surround-view Water Surface BEV Segmentation for Autonomous Surface Vehicles: Dataset, Baseline and Hybrid-BEV Network},
+  author={Xu, Hu and Zhang, Xiaomin and He, Ju and Geng, Ziteng and Pang, Changsong and Yu, Yang},
+  journal={IEEE Transactions on Intelligent Vehicles},
+  year={2024},
+  publisher={IEEE}
+}
+```
 ## Acknowledgement
 We use some codes from [LSS](https://github.com/nv-tlabs/lift-splat-shoot.git)[1], [SimpleBEV](https://github.com/aharley/simple_bev)[2], [Bevformer](https://github.com/fundamentalvision/BEVFormer)[3]. A big thanks to their great work!
 
