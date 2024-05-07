@@ -1,5 +1,5 @@
 # WSBEV datasets
-This open access dataset is publicly available for surrounding-view water sufrace bird's eye view segmentation task, along with our paper work "Surround-view Water Surface BEV Segmentation for Autonomous Surface Vehicles: Dataset, Baseline and Hybrid-BEV Network". 
+This open access dataset is publicly available for surrounding-view water sufrace bird's eye view segmentation task, along with our paper work "Surround-view Water Surface BEV Segmentation for Autonomous Surface Vehicles: Dataset, Baseline and Hybrid-BEV Network" in IEEE Transactions on Intelligent Vehicles Journal. 
 
 <p align="center">
 <img src="./fig/vedio.gif" width="600"/>
